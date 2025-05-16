@@ -3,10 +3,14 @@ This is a simple and clean personal portfolio website built using HTML and basic
 
 ✨ Features
 > Responsive design for desktop and mobile
+
 > Custom sections for About Me, Projects, Skills, and Contact
+
 > Lightweight and fast-loading
+
 > Easy to customize and expand
 
 🔧 Technologies Used
 > HTML5
+
 > CSS
